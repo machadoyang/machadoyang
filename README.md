@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello !
 
-<!--
-**machadoyang/machadoyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I`m Yan Machado.
 
-Here are some ideas to get you started:
+- 🔭 Currently working at [@flow-ufal](https://github.com/flow-ufal) as Front-end Dev
+- 🌱 PhD student in Water Resources at [UFPE](https://www.ufpe.br/)
+- 🤔 Interested in: how data can describe and predict environmental processes and web development
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+You can also find me or contact me at:
+
+<div> 
+  <a href = "mailto:yanr.machado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/machadoyang/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.researchgate.net/profile/Yan-Gomes"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"</a>
+</div>
