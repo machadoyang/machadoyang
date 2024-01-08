@@ -2,7 +2,6 @@
 
 I`m Yan Machado.
 
-- 🔭 Currently working at [@flow-ufal](https://github.com/flow-ufal) as Front-end Dev
 - 🌱 PhD student in Water Resources at [UFPE](https://www.ufpe.br/)
 - 🤔 Interested in: how data can describe and predict environmental processes and web development
 - 😄 Pronouns: He/Him
