@@ -1,14 +1,4 @@
-### Hello !
-
-I`m Yan Machado.
-
-- 🌱 PhD student in Water Resources at [UFPE](https://www.ufpe.br/)
-- 🤔 Interested in: how data can describe and predict environmental processes and web development
-- 😄 Pronouns: He/Him
-
-##
-
-You can also find me or contact me at:
+Contact me through:
 
 <div> 
   <a href = "mailto:yanr.machado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
